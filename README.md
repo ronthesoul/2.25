@@ -4,6 +4,9 @@ This repository contains solutions to various shell scripting tasks for the **2.
 
 ## 📂 Contents
 
+- **task_n27.sh**: Demonstrates user management commands, including displaying logged-in users and switching accounts.
+- **task_n28.sh**: Covers user creation with specific attributes, such as home directories and login shells, and setting up default files for new users.
+- **task_n29.sh**: Focuses on password management, including setting, changing, and enforcing password policies for users.
 - **task_n30.sh**: Manipulates profile-related files by adding environment variables, aliases, and functions to user and system profiles.
 - **task_n31.sh**: Manages user groups by creating groups, renaming them, adding users, and setting group administrators.
 - **task_n32.sh**: Demonstrates file and directory permissions, ownership changes, and the use of `umask` to set default permissions.
