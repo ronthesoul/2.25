@@ -10,14 +10,17 @@ This repository contains solutions to various shell scripting tasks for the **2.
 - **task_n33.sh**: Sets up a directory with specific group ownership and permissions, allowing only group members to create and delete files.
 - **task_n35.sh**: Explores hard and symbolic links by creating linked files and examining their properties.
 
-*Note: For detailed information on each task, please refer to the comments within the respective script files.*
-
 ## 🚀 Usage
+To download of of the scripts with curl [Replace thet task number with the desired one]
+```bash
+curl -O https://raw.githubusercontent.com/ronthesoul/2.25/test/task_n30.sh
+```
+
 
 To execute a specific task script:
 
 ```bash
-bash task_n30.sh
+sudo bash task_n30.sh
 ```
 
 Replace `task_n30.sh` with the desired script name.
