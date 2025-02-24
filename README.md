@@ -37,4 +37,4 @@ Replace `task_n30.sh` with the desired script name.
 
 Created by [ronthesoul](https://github.com/ronthesoul).
 
-*Note: For detailed information on each task, please refer to the comments within the respective script files :).*
+*Note: For detailed information on each task, please refer to the comments within the respective script files .*
