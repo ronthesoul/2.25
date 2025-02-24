@@ -7,7 +7,7 @@ who
 echo "Displayed all logged-in users."
 
 w
-echo "Displayed logged-in users with running commands."
+echo "Displayed logged-in users with running commands ."
 
 # Corrected variable assignment (no spaces around =)
 prev_user=$(whoami)
