@@ -27,7 +27,7 @@ Replace `task_n30.sh` with the desired script name.
 
 ## 🔧 Requirements
 
-- Unix-like operating system
+- Debian Linux system 
 - Bash shell
 
 ## 👤 Author
