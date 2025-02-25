@@ -4,7 +4,7 @@ This repository contains the solutions for tasks 27-35 from the Linux Fundamenta
 
 ## Task Overview
 
-1. **Task n27 - User Management**
+1. *[Task 27](https://github.com/ronthesoul/2.25/blob/test/task_n27.sh) - User Management** 
    - Create, modify, and manage users on Linux using commands like `useradd`, `usermod`, `passwd`.
 2. **Task n28 - User Creation with Specific Attributes**
    - Create users with home directories, specific shells, and default files for new users.
